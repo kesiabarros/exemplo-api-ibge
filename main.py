@@ -1,6 +1,6 @@
 import requests  # Importa a biblioteca requests, que permite fazer requisições HTTP
 
-# Define a URL do endpoint da API do IBGE para obter todos os municípios do estado de São Paulo (código 35)
+# Define a URL do endpoint da API do IBGE para obter todos os municípios do estado de Mato Grosso (código 51)
 url = "https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/municipios"
 
 # Faz uma requisição GET para a URL especificada
